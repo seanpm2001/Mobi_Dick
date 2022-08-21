@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Mobi Dick is a software library for viewing MOBI files. It is intended for use in the BlazeOS operating system.
